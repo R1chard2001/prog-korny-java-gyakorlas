@@ -1,6 +1,6 @@
 # prog-korny-java-gyakorlas
 
-##Gépkocsi osztály 
+## Gépkocsi osztály 
 
 - **Rendszám**: szöveges adat, az osztályon kívül nem módosítható. Értéke nem lehet null
 vagy üres string. Csak számokat, ékezetmentes nagybetűket és ’-’ karaktert tartalmazhat!
